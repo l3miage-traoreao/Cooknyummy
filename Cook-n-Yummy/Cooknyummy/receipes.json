@@ -1,0 +1,44 @@
+[
+        
+        {
+            "name": "Cassoulet",
+            "description": "Jackson",
+            "image": "https://assets.afcdn.com/recipe/20130823/61472_w1024h768c1cx2808cy1872.jpg",
+            "time": 28,
+            "ingredients": "Haricot - Saucisses",
+            "steps":"1 Faire bouillir de l'eau"
+        },
+        {
+            "name": "Ratatouille",
+            "description": "Jackson",
+            "image": "https://recette.supertoinette.com/151484/m/ratatouille.jpg",
+            "time": 30,
+            "ingredients": "Tomate - Poivron",
+            "steps":"1 allumer four"
+        },
+        {
+                "name": "Quiche Lorraine",
+                "description": "Le cassoulet, un classique parmi les classiques. Ce plat réveille autant les appétits que les querelles de puristes ! Découvrez la version de Chef Christophe, un bon cassoulet pour régaler toute la famille.",
+                "image": "https://www.cuisineactuelle.fr/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2F2ed6cd98-1904-4f0f-b4d7-5be3d1c73b26.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgUmFkdmFuZXIvIFN1Y3LDqSBTYWzDqSAvIEN1aXNpbmUgQWN0dWVsbGU%3D/quiche-lorraine-au-lait.jpeg",
+                "time": 28,
+                "ingredients": "1 rouleau de pâte feuilletée-3 œufs entiers– 30 cl de crème fraîche– 25 cl de lait– 300 g de lardons fumés– 150 g d’emmental râpé– Sel-Poivre-Muscade",
+                "steps":"– étalez la pâte feuilletée dans le moule à tarte -piquez la pâte un peu partout avec une fourchette pour éviter que celle-ci ne gonfle – faites cuire les lardons dans une poêle à feu vif pour les dorer, puis égouttez-les pour retirer la graisse – cassez les 3 oeufs dans le saladier puis versez la crème fraîche – mélangez les oeufs et la crème fraiche avec un fouet – ajoutez progressivement le lait, tout en continuant à mélanger avec le fouet – ajoutez le Sel, le poivre et la Muscade – étalez les lardons un peu partout sur la pâte – Versez votre mélange sur les lardons – ajoutez une fine couche d’emmental râpé – mettez la Quiche Lorraine au four, pour un maximum de 30 minutes à 250°C – après 25 minutes piquez la quiche avec un couteau, s’il ressort sans traces de crème fraiche, la quiche est à point – pour donner plus de craquant, passez votre four en mode grill et laissez la quiche dorer 5 min. Attention à ne pas brûler le dessus de votre quiche, surveillez votre cuisson pendant cette dernière phase – c’est prêt !Bon appétit !"
+            },
+        {
+                "name": "Blanquette de veau",
+                "description": "Découvrez la recette de la Blanquette de veau traditionnelle, un classique du terroir qui fait l'unanimité à chaque bouchée. Servir avec de bonnes pâtes fraîches ou du riz blanc.",
+                "image": "https://www.cuisineactuelle.fr/imgre/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2020.2F12.2F01.2F600ca031-269c-46a0-b28f-c74eb9aa0bdc.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgQmVyZ2Vyb24gLyBQaG90b2N1aXNpbmUgLyBDdWlzaW5lIEFjdHVlbGxl/focus-point/1632%2C2216/blanquette-de-veau.jpeg",
+                "time": 90,
+                "ingredients": "1,2kg Morceaux de veau pour blanquette - 1Oignon2Clous de girofle - 300g Champignons de Paris - 1Blanc de poireau - 2gousses Ail - 2Carottes - 1Bouquet garni - 40g Beurre - 30g Farine - 1Jaune d’oeuf - 10cl Crème liquide - 1cuil. à soupe Persil - 1Demi citron - Sel - Poivre",
+                "steps":"Déposez la viande dans une cocotte, ajoutez l’oignon pelé et piqué de clous de girofle et couvrez d’eau froide. Portez à ébullition et laissez mijoter 30 min. Rincez le blanc de poireau. Pelez les carottes, lavez-les et coupez-les en tronçons. Ajoutez les légumes dans la cocotte avec l’ail et le bouquet garni et laissez cuire doucement pendant 1 h. Nettoyez et émincez les champignons de Paris puis faites-les sauter dans une poêle chaude avec 10 g de beurre. Salez, poivrez.Sortez la viande et les légumes de la cocotte. Prélevez environ 50 cl de bouillon de cuisson. Faites fondre le reste de beurre dans une casserole, ajoutez la farine et mélangez sur feu doux. Versez petit à petit le bouillon réservé et faites épaissir en remuant. Reversez la sauce dans la cocotte, et remettez la viande, les champignons et les légumes. Dans un bol, fouettez le jaune d’œuf avec la crème puis ajoutez le jus du demi citron. Versez dans la cocotte et mélangez. Réchauffez doucement, salez, poivrez, parsemez de persil ciselé et servez."
+            },
+        {
+                "name": "Boeuf bourguignon",
+                "description": "Découvrez la recette de la Blanquette de veau traditionnelle, un classique du terroir qui fait l'unanimité à chaque bouchée. Servir avec de bonnes pâtes fraîches ou du riz blanc.",
+                "image": "https://www.epicurien.be/magazine/00-img-epicurien/recettes-w2000/boeuf-bourguignon-cocotte-4.jpg",
+                "time": 90,
+                "ingredients": "1 kg de viande de boeuf (collier) - 2 oignons - 3 carottes - 1 gousse d'ail - 2 cuillerées à soupe de farine - 30 cl de vin rouge - 1 bouquet garni (thym, laurier) - 100 g de lardons - 250 g de champignons de Paris - sel, poivre - huile",
+                "steps":"Coupez la viande en cubes d’environ 5 cm de côté. Pelez et émincez les oignons. Pelez et coupez les carottes en rondelles. Ecrasez la gousse d’ail.Dans une cocotte, faites chauffer 3 cuillères à soupe d’huile. Déposez les morceaux de viande et laissez-les saisir quelques minutes, sans remuer. Retournez-les et faites saisir quelques minutes. Si votre cocotte n’est pas assez grande, faites dorer une première partie de la viande, retirez-la et continuez avec le reste. Ajoutez les oignons, l’ail et les carottes. Salez légèrement, mélangez bien et laissez cuire 5 min. Ajoutez la farine, mélangez bien l’ensemble puis mouillez avec le vin rouge. Complétez avec de l’eau pour couvrir la viande. Ajoutez le bouquet garni. Portez le mélange à ébullition puis refermez la cocotte avec le couvercle et laissez mijoter 2h30 à 3h sur feu moyen. Remuez de temps en temps et ajoutez un peu d’eau si nécessaire.  Pendant ce temps, faites chauffer les lardons dans une poêle, sans ajout de matière grasse. Lorsqu’ils sont bien dorés, retirez l’excédent de graisses et ajoutez les champignons de Paris. Laissez cuire 5 min et retirez du feu. Ajoutez les lardons et les champignons dans la cocotte en train de mijoter. Servez chaud, avec des pommes de terre. Le boeuf bourguignon est encore meilleur lorsqu’il est réchauffé. N’hésitez pas à le faire la veille."
+            }
+]
+
